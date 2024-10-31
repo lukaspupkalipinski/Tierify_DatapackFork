@@ -1,0 +1,17 @@
+{
+    "items": [
+        "indrev:silver_sword",
+        "indrev:silver_pickaxe",
+        "indrev:silver_axe",
+        "indrev:silver_shovel",
+        "indrev:silver_hoe",
+        "indrev:silver_helmet",
+        "indrev:silver_chestplate",
+        "indrev:silver_leggings",
+        "indrev:silver_shovel",
+        "indrev:silver_boots"
+    ],
+    "base": [
+        "techreborn:silver_ingot"
+    ]
+}

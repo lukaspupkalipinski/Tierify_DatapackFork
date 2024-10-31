@@ -1,0 +1,17 @@
+{
+    "items": [
+        "indrev:copper_sword",
+        "indrev:copper_pickaxe",
+        "indrev:copper_axe",
+        "indrev:copper_shovel",
+        "indrev:copper_hoe",
+        "indrev:copper_helmet",
+        "indrev:copper_chestplate",
+        "indrev:copper_leggings",
+        "indrev:copper_shovel",
+        "indrev:copper_boots"
+    ],
+    "base": [
+        "minecraft:copper_ingot"
+    ]
+}

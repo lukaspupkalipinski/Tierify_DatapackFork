@@ -1,0 +1,17 @@
+{
+    "items": [
+        "indrev:lead_sword",
+        "indrev:lead_pickaxe",
+        "indrev:lead_axe",
+        "indrev:lead_shovel",
+        "indrev:lead_hoe",
+        "indrev:lead_helmet",
+        "indrev:lead_chestplate",
+        "indrev:lead_leggings",
+        "indrev:lead_shovel",
+        "indrev:lead_boots"
+    ],
+    "base": [
+        "techreborn:lead_ingot"
+    ]
+}

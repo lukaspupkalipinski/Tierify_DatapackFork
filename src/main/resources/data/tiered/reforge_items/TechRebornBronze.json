@@ -1,0 +1,17 @@
+{
+    "items": [
+        "indrev:bronze_sword",
+        "indrev:bronze_pickaxe",
+        "indrev:bronze_axe",
+        "indrev:bronze_shovel",
+        "indrev:bronze_hoe",
+        "indrev:bronze_helmet",
+        "indrev:bronze_chestplate",
+        "indrev:bronze_leggings",
+        "indrev:bronze_shovel",
+        "indrev:bronze_boots"
+    ],
+    "base": [
+        "techreborn:bronze_ingot"
+    ]
+}

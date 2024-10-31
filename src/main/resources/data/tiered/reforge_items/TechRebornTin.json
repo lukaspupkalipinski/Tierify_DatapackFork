@@ -1,0 +1,17 @@
+{
+    "items": [
+        "indrev:tin_sword",
+        "indrev:tin_pickaxe",
+        "indrev:tin_axe",
+        "indrev:tin_shovel",
+        "indrev:tin_hoe",
+        "indrev:tin_helmet",
+        "indrev:tin_chestplate",
+        "indrev:tin_leggings",
+        "indrev:tin_shovel",
+        "indrev:tin_boots"
+    ],
+    "base": [
+        "techreborn:tin_ingot"
+    ]
+}
